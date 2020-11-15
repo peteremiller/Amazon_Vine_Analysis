@@ -8,7 +8,7 @@ Using bulleted lists and images of DataFrames as support, address the following 
 
 ### How many Vine reviews and non-Vine reviews were there?
 The best way to answer this question is to create a line of code that will count the total number of reviews that were part of the Vine program (paid) and a second line of code that will count the reviews that were not part of the Vine program (unpaid). In the picture below the process was completed:
-<img src="Resources/pecentages.png">
+<img src="Amazon_Vine_Analysis/Resources/pecentages.png">
 
 ### How many Vine reviews were 5 stars? 
 
