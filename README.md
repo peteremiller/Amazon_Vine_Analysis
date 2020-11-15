@@ -13,11 +13,12 @@ As seen in cell 6 above the total number of reviews that were part of the Vine p
 ### How many Vine reviews were 5 stars? 
 The photo below displays the total number of 5 star paid and unpaid reviews: 15,711
 ### How many non-Vine reviews were 5 stars?
+<img src="Resources/fivestar_reviews.png">
 
 ### What percentage of Vine reviews were 5 stars? 
 
 ### What percentage of non-Vine reviews were 5 stars?
-<img src="Resources/percentages.png">
+<img src="Resources/fivestar_percentages.png">
 
 
 ## Summary 
