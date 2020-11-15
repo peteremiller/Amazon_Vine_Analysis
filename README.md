@@ -7,9 +7,9 @@
 Using bulleted lists and images of DataFrames as support, address the following questions:
 
 ### How many Vine reviews and non-Vine reviews were there?
-The best way to answer this question is to create a line of code that will count the total number of reviews that were part of the Vine program (paid) and a second line of code that will count the reviews that were not part of the Vine program (unpaid). In the picture below the process was completed:
+I believe the best way to answer this question is to create a line of code to count the total number of reviews that were part of the Vine program (paid) and a second line of code that will count the reviews that were not part of the Vine program (unpaid). In the photo below the process was completed:
 <img src="Resources/count.png">
-
+As seen in cell 6 above the total number of reviews that were part of the Vine program are 94. Cell 8 displys the total number of reviews not a part of the Vine program: 40,471.
 ### How many Vine reviews were 5 stars? 
 
 ### How many non-Vine reviews were 5 stars?
