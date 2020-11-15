@@ -12,9 +12,9 @@ I believe the best way to answer this question is to create a line of code to co
 As seen in cell 6 above the total number of reviews that were part of the Vine program (paid) are 94. Cell 8 displys the total number of reviews not a part of the Vine program (unpaid): 40,471.
 
 ### How many Vine reviews were 5 stars? 
-The photo below displays the total number of 5 star reviews: 15,711 (cell 26). The number of 5 star Vine member reviews (paid) is 48 (cell 27).
+The photo below displays the total number of 5 star reviews: 15,711 (cell 25). The number of 5 star Vine member reviews (paid) is 48 (cell 27).
 ### How many non-Vine reviews were 5 stars?
-The photo also suggests there are 15,663 non-Vine (unpaid) 5 star reviews.
+The photo also suggests there are 15,663 non-Vine (unpaid) 5 star reviews (cell 26).
 <img src="Resources/fivestar_reviews.png">
 
 ### What percentage of Vine reviews were 5 stars? 
