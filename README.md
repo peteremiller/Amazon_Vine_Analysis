@@ -12,23 +12,24 @@ I believe the best way to answer this question is to create a line of code to co
 As seen in cell 6 above the total number of reviews that were part of the Vine program (paid) are 94. Cell 8 displys the total number of reviews not a part of the Vine program (unpaid): 40,471.
 
 ### How many Vine reviews were 5 stars? 
-The photo below displays the total number of 5 star paid and unpaid reviews: 15,711. The number of 5 star Vine reviews (paid) is 48.
+The photo below displays the total number of 5 star reviews: 15,711. The number of 5 star Vine member reviews (paid) is 48.
 ### How many non-Vine reviews were 5 stars?
-The photo also displays there are 15,663 non-Vine (unpaid) 5 star reviews.
+The photo also suggests there are 15,663 non-Vine (unpaid) 5 star reviews.
 <img src="Resources/fivestar_reviews.png">
 
 ### What percentage of Vine reviews were 5 stars? 
-In the photo below the percentage of 5 star Vine (paid) reviews is 38.2%
+In the photo below 38.2% of the 5 star Vine (paid) reviews were reutrned in the analysis.
 ### What percentage of non-Vine reviews were 5 stars?
-The number of non-Vine (unpaid) 5 star reviews represent 38.9%
+In the photo below 38.9% of the 5 star non-Vine (unpaid) reviews were returned in the analysis.
 <img src="Resources/fivestar_percentages.png">
 
 
 ## Summary 
 ### Is there any positivity bias for reviews in the Vine program? 
-There are two sets of reviews, one set is represented by those who are not a part of the Vine program and the pther set is represented by those who are a part of the Vine program. The analysis does not take into consideration whether those who left a review were able to view previous reviews of others before they made their own review of the video game. Herd mentality is a serious issue when trying to analyize datasets of online reviews. Positive reviews tend to influence others to also leave positive reviews or lessen the severity of a negative review. 
+This Vine analysis does not take into consideration whether or not those who left a review were able to view previous reviews of others before they made their own review of the video game. Positive reviews may influence others to also leave positive reviews or lessen the negative impact of the review. 
 
-In the case of this analysis, the total percentage of five star reviews is 38.73%. Over one-third of all video game reviews are five star. The total number of Vine reviews, 94, compared to the large percentage of 5 star reviews, 38.2%, by Vine program members, indicates the possibility of positivity bias. Even though both five star percentages are similar, 38.9% of non-Vine reviews are five star and 38.2% for reviews by Vine program members, only suggests to me that both five star review datasets may be influenced by positivity bias.
+In the case of this analysis, the total percentage of five star reviews (all reviewers) is 38.73%. Over one-third of all video game reviews in the dataset are five star. The large percentage of 5 star reviews, 38.2%, by Vine program members, indicates the possibility of positivity bias. Even though both five star percentages are similar, 38.9% of non-Vine reviews are five star and 38.2% of reviews by Vine program members, only suggests to me that both populations, Vine members and non-Vine members, may be influenced by positivity bias.
 
-One additional analysis I would suggest is more focused on language used by the reviewer to determine positivity bias. Is there a similarity in the laguage used by those who provided five star reviews? Machine learning analysis would help determine the frequency and importance of key words to better understand if indeed reviewers influence each other to the point of an observable possitivity bias.
+One additional analysis I would suggest is more focused on language used by the reviewer to determine positivity bias. Is there a similarity in the laguage used by those who provided five star reviews? NLP (Natural Language Processing) would help with classifying text, extracting specific pieces of information related to five star reviews, and summarize the reviews to provide a helpful understanding if indeed there is a case for possitivity bias.
+
 this concludes my analysis PEM
