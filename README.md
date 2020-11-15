@@ -11,12 +11,13 @@ I believe the best way to answer this question is to create a line of code to co
 <img src="Resources/count.png">
 As seen in cell 6 above the total number of reviews that were part of the Vine program are 94. Cell 8 displys the total number of reviews not a part of the Vine program: 40,471.
 ### How many Vine reviews were 5 stars? 
-
+The photo below displays the total number of 5 star paid and unpaid reviews: 15,711
 ### How many non-Vine reviews were 5 stars?
 
 ### What percentage of Vine reviews were 5 stars? 
 
 ### What percentage of non-Vine reviews were 5 stars?
+<img src="Resources/percentages.png">
 
 
 ## Summary 
