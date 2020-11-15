@@ -10,14 +10,17 @@ Using bulleted lists and images of DataFrames as support, address the following 
 I believe the best way to answer this question is to create a line of code to count the total number of reviews that were part of the Vine program (paid) and a second line of code that will count the reviews that were not part of the Vine program (unpaid). In the photo below the process was completed:
 <img src="Resources/count.png">
 As seen in cell 6 above the total number of reviews that were part of the Vine program are 94. Cell 8 displys the total number of reviews not a part of the Vine program: 40,471.
+
 ### How many Vine reviews were 5 stars? 
-The photo below displays the total number of 5 star paid and unpaid reviews: 15,711
+The photo below displays the total number of 5 star paid and unpaid reviews: 15,711. The number of 5 star Vine reviews (paid) is 48.
 ### How many non-Vine reviews were 5 stars?
+The photo also displays there are 15,663 non-Vine (unpaid) 5 star reviews.
 <img src="Resources/fivestar_reviews.png">
 
 ### What percentage of Vine reviews were 5 stars? 
-
+In the photo below the percentage of Vine (paid) reviews that are 5 stars is 38.2%
 ### What percentage of non-Vine reviews were 5 stars?
+The number of non-Vine (unpaid) 5 star reviews represent 38.9%
 <img src="Resources/fivestar_percentages.png">
 
 
